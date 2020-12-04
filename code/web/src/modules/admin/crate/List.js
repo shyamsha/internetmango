@@ -72,7 +72,6 @@ class List extends PureComponent {
 
   render() {
     const { isLoading, list } = this.props.crates
-
     return (
       <div>
         {/* SEO */}
